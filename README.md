@@ -1,89 +1,116 @@
-📡 nRFBox - Proyecto de Aprendizaje
-⚠️ PROYECTO EN CONSTRUCCIÓN
-Fecha de inicio: 2024
-Estoy desarrollando este proyecto poco a poco en mi tiempo libre. ¡Vuelve pronto para ver los avances!
+# 📡 nRFBox - Proyecto de Aprendizaje
 
-🎯 Descripción
-Proyecto educativo basado en el concepto de nRFBox para aprendizaje en entornos controlados. Versión mejorada corrigiendo errores comunes de implementación.
+> **PROYECTO EN CONSTRUCCIÓN**  
+> **Fecha de inicio:** 2024  
+> **Última actualización:** 2025-11-11  
 
-Inspirado en: Video de referencia
+---
 
-📦 Componentes Requeridos
-🧩 Electrónicos Principales
-Componente	Descripción
-ESP32 WROOM 32U
-https://./images/esp32-wroom-32u.jpg	Microcontrolador principal con conectividad WiFi/Bluetooth
-ESP32 WROOM 32
-https://./images/esp32-wroom-32.jpg	Alternativa para prototipos
-Antena WiFi
-https://./images/wifi-antenna.jpg	Mejora la recepción de señal WiFi
-nRF24L01 Alcance L
-https://./images/nrf24l01-long-range.jpg	Comunicación RF de largo alcance
-nRF24L01 Alcance M
-https://./images/nrf24l01-medium-range.jpg	Comunicación RF estándar
-🖥️ Pantallas y Interfaces
-Componente	Descripción
-Pantalla OLED 1,3"
-https://./images/oled-1.3inch.jpg	Pantalla grande para visualización
-Pantalla OLED 0,96"
-https://./images/oled-0.96inch.jpg	Pantalla compacta alternativa
-Botón Pulsador
-https://./images/tactile-button.jpg	Interfaz de usuario táctil
-Módulo Control LED
-https://./images/led-controller.jpg	Control de indicadores luminosos
-🔌 Conectividad y Alimentación
-Componente	Descripción
-Cables Prototipo
-https://./images/jumper-wires.jpg	Conexiones para prototipado
-Placas Prototipo
-https://./images/protoboard.jpg	Base para montaje de componentes
-Cargador Batería
-https://./images/battery-charger.jpg	Gestión de alimentación por baterías
-🔧 Estado Actual del Proyecto
-🏗️ Fase Actual: Planificación
-✅ Lista de componentes definida
+##  Descripción
 
-⏳ Diseño de esquemáticos en progreso
+Proyecto educativo basado en el concepto de **nRFBox**, diseñado para el **aprendizaje en entornos controlados**.  
+Versión mejorada que corrige errores comunes de implementación.
 
-🔄 Recolección de materiales
+Inspirado en: *Video de referencia (por añadir)*
 
-🚫 Código firmware - Pendiente
+---
 
-🚫 Ensamblaje - Pendiente
+## Componentes Requeridos
 
-📅 Próximos Pasos
-Finalizar diseño de esquemáticos
+###  Electrónicos Principales
 
-Adquirir componentes faltantes
+| Componente | Imagen | Descripción |
+|-------------|---------|-------------|
+| **ESP32 WROOM 32U** | ![ESP32 WROOM 32U](./images/esp32-wroom-32u.jpg) | Microcontrolador principal con conectividad WiFi/Bluetooth |
+| **ESP32 WROOM 32** | ![ESP32 WROOM 32](./images/esp32-wroom-32.jpg) | Alternativa para prototipos |
+| **Antena WiFi** | ![Antena WiFi](./images/wifi-antenna.jpg) | Mejora la recepción de señal WiFi |
+| **nRF24L01 Alcance L** | ![nRF24L01 Long Range](./images/nrf24l01-long-range.jpg) | Comunicación RF de largo alcance |
+| **nRF24L01 Alcance M** | ![nRF24L01 Medium Range](./images/nrf24l01-medium-range.jpg) | Comunicación RF estándar |
 
-Desarrollar firmware básico
+---
 
-Ensamblaje inicial
+### Pantallas e Interfaces
 
-Pruebas de funcionalidad
+| Componente | Imagen | Descripción |
+|-------------|---------|-------------|
+| **Pantalla OLED 1.3"** | ![OLED 1.3"](./images/oled-1.3inch.jpg) | Pantalla grande para visualización |
+| **Pantalla OLED 0.96"** | ![OLED 0.96"](./images/oled-0.96inch.jpg) | Pantalla compacta alternativa |
+| **Botón Pulsador** | ![Botón Pulsador](./images/tactile-button.jpg) | Interfaz de usuario táctil |
+| **Módulo Control LED** | ![Módulo LED](./images/led-controller.jpg) | Control de indicadores luminosos |
 
-📁 Recursos Descargables
-Drivers y Firmware: Descargar desde MEGA
+---
 
-Contiene:
+### Conectividad y Alimentación
 
-Controladores para componentes
+| Componente | Imagen | Descripción |
+|-------------|---------|-------------|
+| **Cables Prototipo** | ![Cables Prototipo](./images/jumper-wires.jpg) | Conexiones para prototipado |
+| **Placas Prototipo** | ![Placa Prototipo](./images/protoboard.jpg) | Base para montaje de componentes |
+| **Cargador de Batería** | ![Cargador de Batería](./images/battery-charger.jpg) | Gestión de alimentación por baterías |
 
-Firmware base
+---
 
-Librerías necesarias
+## Estado Actual del Proyecto
 
-Documentación técnica
+| Etapa | Estado |
+|--------|---------|
+| 🏗️ **Fase Actual** | Planificación |
+| ✅ **Lista de componentes** | Definida |
+| ⏳ **Diseño de esquemáticos** | En progreso |
+| 🔄 **Recolección de materiales** | En curso |
+| 🚫 **Código firmware** | Pendiente |
+| 🚫 **Ensamblaje** | Pendiente |
 
-🔌 Esquemáticos
-https://./images/esquematico-nrfbox.png
-Diagrama preliminar de conexiones - Sujeto a cambios
+---
 
-https://./images/layout-placa.png
-Distribución propuesta para la placa
+## 📅 Próximos Pasos
 
-🛠️ Instalación y Configuración
-Esta sección se completará cuando el firmware esté disponible
+- [ ] Finalizar diseño de esquemáticos  
+- [ ] Adquirir componentes faltantes  
+- [ ] Desarrollar firmware básico  
+- [ ] Ensamblaje inicial  
+- [ ] Pruebas de funcionalidad  
 
-⚠️ Advertencia de Seguridad
-Este proyecto es EXCLUSIVAMENTE para fines educativos en ambientes controlados. El uso inapropiado de estas tecnologías puede violar leyes locales.
+---
+
+## 📁 Recursos Descargables
+
+📦 **Drivers y Firmware** — [Descargar desde MEGA](#)  
+Incluye:
+
+- Controladores para componentes  
+- Firmware base  
+- Librerías necesarias  
+- Documentación técnica  
+
+---
+
+## 🔌 Esquemáticos
+
+**Diagrama preliminar de conexiones**  
+> 🧠 *Sujeto a cambios durante el desarrollo.*
+
+![Esquemático nRFBox](./images/esquematico-nrfbox.png)
+
+**Distribución propuesta para la placa**
+
+![Layout de la placa](./images/layout-placa.png)
+
+---
+
+## 🛠️ Instalación y Configuración
+
+> 🔜 Esta sección se completará cuando el firmware esté disponible.  
+> Se incluirán pasos detallados para instalación, flasheo del firmware y configuración inicial.
+
+---
+
+## ⚠️ Advertencia de Seguridad
+
+> Este proyecto es **EXCLUSIVAMENTE para fines educativos** en ambientes controlados.  
+> El uso inapropiado de estas tecnologías puede violar leyes locales.
+
+---
+
+📌 **Autor:** Proyecto en desarrollo personal  
+✉️ **Contacto:** *(por definir)*  
