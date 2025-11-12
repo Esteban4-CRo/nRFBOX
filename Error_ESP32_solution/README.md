@@ -29,7 +29,7 @@ COM=!1 (ESP32 Dev Module)
 
 | Chip | Driver |
 |------|--------|
-| **CP2102** | [Descargar aquí](https://www.silabs.com/developers/usb-to-uarts-bridge-vcp-drivers) |
+| **CP2102** | [Descargar aquí](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads) |
 | **CH340** | [Descargar aquí](https://sparks.gogo.co.nz/ch340.html) |
 
 ### Instalar Soporte para ESP32
@@ -84,4 +84,5 @@ Hard resetting via RTS pin...
 - **Error de carga:** Presiona el botón **BOOT** durante la conexión
 - **Puerto no disponible:** Verifica los drivers y reinicia el IDE
 - **Placa no reconocida:** Revisa la selección de placa en `Herramientas → Placa`
+
 
