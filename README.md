@@ -21,7 +21,7 @@ Inspirado en: *Video de referencia (por añadir)*
 
 | Componente | Imagen | Descripción |
 |-------------|---------|-------------|
-| **ESP32 WROOM 32U** | ![ESP32 WROOM 32U](./images/esp32-wroom-32u.jpg) | Microcontrolador principal con conectividad WiFi/Bluetooth |
+| **ESP32 WROOM 32U** | ![ESP32 WROOM 32U](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRHrFQJuoWDZ9F5hOc4_knXqrqqHQkSiM5YA&s) | Microcontrolador principal con conectividad WiFi/Bluetooth |
 | **ESP32 WROOM 32** | ![ESP32 WROOM 32](./images/esp32-wroom-32.jpg) | Alternativa para prototipos |
 | **Antena WiFi** | ![Antena WiFi](./images/wifi-antenna.jpg) | Mejora la recepción de señal WiFi |
 | **nRF24L01 Alcance L** | ![nRF24L01 Long Range](./images/nrf24l01-long-range.jpg) | Comunicación RF de largo alcance |
