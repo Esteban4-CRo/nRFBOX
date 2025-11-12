@@ -22,7 +22,7 @@ Inspirado en: *Video de referencia (por añadir)*
 | Componente | Imagen | Descripción |
 |-------------|---------|-------------|
 | **ESP32 WROOM 32U** | ![ESP32 WROOM 32U](https://cdnx.jumpseller.com/mactornica/image/18172426/H926b1be9ccff47c69563694b726cef17p.webp?1655400654) | Microcontrolador principal con conectividad WiFi/Bluetooth |
-| **ESP32 WROOM 32** | ![ESP32 WROOM 32]([./images/esp32-wroom-32.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRHrFQJuoWDZ9F5hOc4_knXqrqqHQkSiM5YA&s)) | Alternativa para prototipos |
+| **ESP32 WROOM 32** | ![ESP32 WROOM 32](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRHrFQJuoWDZ9F5hOc4_knXqrqqHQkSiM5YA&s)) | Alternativa para prototipos |
 | **Antena WiFi** | ![Antena WiFi](https://www.sigmaelectronica.net/wp-content/uploads/2020/11/ANTENA-WIFI-SMA-M.jpg) | Mejora la recepción de señal WiFi |
 | **nRF24L01 Alcance L** | ![nRF24L01 Long Range](https://ae01.alicdn.com/kf/HTB1W9CuUSzqK1RjSZPcq6zTepXag/SPI-nRF24L01-PA-LNA-2-4-GHz-Rf-m-dulo-E01-ML01DP5-2-5-km-de.jpg) | Comunicación RF de largo alcance |
 | **nRF24L01 Alcance M** | ![nRF24L01 Medium Range](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmGQfGSmjzNnnoCHXciU73zUsaSPXnrTgxfQ&s) | Comunicación RF estándar |
@@ -74,7 +74,7 @@ Inspirado en: *Video de referencia (por añadir)*
 
 ## 📁 Recursos Descargables
 
-**Drivers y Firmware** — [Descargar desde MEGA](#https://mega.nz/folder/OQpDnLgY#gKpLGsnu_np7O00hVTvWxg)  
+**Drivers y Firmware** — [Descargar desde MEGA](https://mega.nz/folder/OQpDnLgY#gKpLGsnu_np7O00hVTvWxg)  
 Incluye:
 
 - Controladores para componentes  
