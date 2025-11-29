@@ -76,7 +76,7 @@ Incluye:
 ### Ensamblaje esperado  
 > Así debería verse el nRFBox siguiendo el esquemático:
 
-![Resultado 1](./MedimumR.jpg)
+![Resultado 1](./MediumR.jpg)
 
 ---
 
