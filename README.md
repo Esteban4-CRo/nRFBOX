@@ -1,4 +1,4 @@
-# nRFBox - Proyecto de Aprendizaje
+# nRF-Box 
 
 ---
 
